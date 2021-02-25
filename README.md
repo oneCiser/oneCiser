@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there :raised_hand:
+
+Hello, my name is Juan Francisco and I am a systems and computer engineer 
+
 
 ***
 
